@@ -4,7 +4,6 @@ public class UserModel {
 
     private String username, id, password;
 
-
     public String getUsername() {
         return username;
     }
@@ -28,4 +27,5 @@ public class UserModel {
     public void setPassword(String password) {
         this.password = password;
     }
+
 }
